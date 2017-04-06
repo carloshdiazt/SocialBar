@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416204781481",
+    "firebase_url": "https://socialbar-edb4b.firebaseio.com",
+    "project_id": "socialbar-edb4b",
+    "storage_bucket": "socialbar-edb4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416204781481:android:99d7a0a1573b0039",
+        "android_client_info": {
+          "package_name": "com.example.diazt.socialbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416204781481-hjsfgseqmmh9ooj3b56citkia9v97im9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diazt.socialbar",
+            "certificate_hash": "9c3dec5ad78f6ba10624234a8ec6ec4d38f177b9"
+          }
+        },
+        {
+          "client_id": "416204781481-3ab6olc94tp3u0g448ncnrv7gighcu6p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQCNN-o14_MGJc3zAnaGNajrNd6tKJFyQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416204781481-3ab6olc94tp3u0g448ncnrv7gighcu6p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
